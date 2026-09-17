@@ -1,0 +1,6 @@
+{
+  "name": "DealSpot",
+  "description": "Explore nearby flash discounts, store radar, and grocery clearance deals with interactive map.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
